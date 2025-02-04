@@ -2,3 +2,4 @@ flask
 roboflow
 opencv-python
 pandas
+gunicorn
